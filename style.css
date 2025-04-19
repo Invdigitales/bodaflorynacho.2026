@@ -132,6 +132,7 @@
       box-shadow: 2px 2px 30px -5px #b9d0b4;
       cursor: pointer;
       margin-top: -15%;
+      padding: 4px 15px;
       background-size: 50%;
       margin-left: 18%;
       font-family: "Open Sans", sans-serif;
@@ -145,248 +146,148 @@
   margin-left: 63%;
   margin-top: -70%;
 }
+.palmerados{
+  width: 45%;
+  margin-left: -5%;
+  margin-top: 5%;
+}
 
+.Flor{
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #445d7a;
+  border-radius: 7px;
+  box-shadow: 2px 2px 30px -5px #b9d0b4;
+  cursor: pointer;
+  margin-top: -14%;
+  background-size: 50%;
+  margin-left: 26%;
+  font-family: "Open Sans", sans-serif;
+  background-image: url(./imagenes/brillo\ blanco.gif);
+  text-decoration: none;
+  padding: 4px 15px;
+}
+.nacho{
+  font-size: 18px;
+  font-weight: 500;
+  color: #ffffff;
+  background-color: #445d7a;
+  border-radius: 7px;
+  box-shadow: 2px 2px 30px -5px #b9d0b4;
+  cursor: pointer;
+  margin-top: 5%;
+  background-size: 50%;
+  margin-left: 24%;
+  font-family: "Open Sans", sans-serif;
+  background-image: url(./imagenes/brillo\ blanco.gif);
+  text-decoration: none;
+  padding: 4px 15px;
+}
+.parrafovenis{
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #4d4c4c;
+  text-align: center;
+text-transform: uppercase;
+line-height: 180%;
+font-weight: 600;
+margin-top: 15%;
 
-
-
-
-
-
-
-
-
-
-
-    
-
+}
 
 
 .parrafovestimenta{
   font-family: "Open Sans", sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: #4d4c4c;
-  margin: 8%;
 text-transform: uppercase;
 line-height: 180%;
 font-weight: 600;
-text-align: left;
-  margin-top: -10%;
+text-align: center;
+margin-top: -60%;
+  
 }
- 
+.parraforegalos {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #4d4c4c;
+text-transform: uppercase;
+line-height: 180%;
+font-weight: 600;
+text-align: center;
+margin-top: 15%;
+  
+}
+.tituloh2{
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #4d4c4c;
+  text-align: center;
+text-transform: uppercase;
+line-height: 180%;
+font-weight: 600;
+margin-top: 5%;
+
+}
+
+.tituloh3{
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #445d7a;
+  text-align: center;
+text-transform: uppercase;
+line-height: 180%;
+font-weight: 600;
+margin-top: 10%;
+
+}
+.tituloh4{
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  color: #445d7a;
+  text-align: center;
+text-transform: uppercase;
+line-height: 180%;
+font-weight: 600;
+margin-top: 5%;
+   }
+
 .codigobarra{
   width: 52%;
   margin-left: 24%;
   margin-top: -30%;
 }
-.hospedaje{
-  color:#BDA040 ;
-  font-size: 17px;
-}
+
+
+
 .coco{
   width: 25%;
 margin-left: 36%;
   border-radius: 5%;
 }
 
+.regalo{
+  width: 30%;
+margin-left: 35%;
+  border-radius: 5%;
+}
 
-  .parrafo1{
-    font-family: "Open Sans", sans-serif;
-    font-size: 16px;
-    color: #4d4c4c;
-    margin: 8%;
- text-transform: uppercase;
- line-height: 180%;
- font-weight: 600;
-  }
+
+
  
-  .card-body{
-padding: 20%;
-  }
-.tituloh2{
-  text-align: center;
-  font-family: "Open Sans", sans-serif;
-     font-size: 18px;
-     color:#BDA040 ;
-     margin-top: 10%;  
-  font-weight: 600;
 
-}
 
-.iconop{
-width: 10%;
-margin-left: 45%;
-}
-.vestimenta{
-  text-align: center;
-  font-family: "Open Sans", sans-serif;
-     font-size: 14px;
-     font-weight: 600;
-     color:#BDA040 ;
-     margin-top: 10%; 
-}
 
-.avion{
-width: 40%;
-margin-top: -2%;
-}
 
-.tituloh3{
-  text-align: center;
-  font-family: "Open Sans", sans-serif;
-     font-size: 18px;
-     color:#BDA040 ;
-     margin-top: 10%;  
-  font-weight: 600;
-  margin-top: -10%;
- }
 
- .parrafohospedarte{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-text-transform: uppercase;
-line-height: 180%;
-font-weight: 600;
-text-align: left;
- }
- .parrafo4Aloja{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-text-transform: uppercase;
-line-height: 180%;
-font-weight: 600;
-text-align: left;
-}
-.quehacerenjujuy{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-text-transform: uppercase;
-line-height: 180%;
-font-weight: 600;
-text-align: left;
 
-}
-.puna{
-  color:#BDA040 ;
-  font-size: 17px;
-  font-weight: 600;
-  font-family: "Open Sans", sans-serif;
-  margin: 8%;
-  text-transform: uppercase
-}
-.yunga{
-  color:#BDA040 ;
-  font-size: 17px;
-  font-weight: 600;
-  font-family: "Open Sans", sans-serif;
-  margin: 8%;
-  text-transform: uppercase
-}
+ 
 
-.capital{
-  color:#BDA040 ;
-  font-size: 17px;
-  font-weight: 600;
-  font-family: "Open Sans", sans-serif;
-  margin: 8%;
-  text-transform: uppercase
-}
 
-.quehacerenjujuydos{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-text-transform: uppercase;
-line-height: 180%;
-font-weight: 600;
-text-align: left;
-margin-top: -10%;
 
-}
-.quehacerenjujuy03{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-text-transform: uppercase;
-line-height: 180%;
-font-weight: 600;
-text-align: left;
-margin-top: -10%;
 
-}
-.quehacerenjujuy04{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-text-transform: uppercase;
-line-height: 180%;
-font-weight: 600;
-text-align: left;
-margin-top: -10%;
 
-}
-.quehacerenjujuy05{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-text-transform: uppercase;
-line-height: 180%;
-font-weight: 600;
-text-align: left;
-margin-top: -13%;
-
-}
-.whatsap{
-  width: 30%;
-  margin-left: 5%;
-  margin-top: 5%;
-  text-decoration: none;
-}
-.sacar{
-  text-decoration: none;
-}
-.wedding{
-  width: 30%;
-  margin-left: 25%;
-  margin-top: -23%;
- }
-.tituloh4{
-  text-align: center;
-  font-family: "Open Sans", sans-serif;
-     font-size: 18px;
-     color:#BDA040 ;
-     margin-top: 10%;  
-  font-weight: 600;
-  
-}
-.titulorecomendaciones{
-  text-align: center;
-  font-family: "Open Sans", sans-serif;
-     font-size: 18px;
-     color:#BDA040 ;
-     margin-top: 10%;  
-  font-weight: 600;
-  margin-top: 10%;
-   }
-   .parraforegalos{
-    font-family: "Open Sans", sans-serif;
-       font-size: 16px;
-       color: #4d4c4c;
-       margin: 8%;
-    text-transform: uppercase;
-    line-height: 180%;
-    font-weight: 600;
-  
-  }
   .parrafocbu{
     font-family: "Open Sans", sans-serif;
     font-size: 16px;
@@ -396,53 +297,7 @@ margin-top: -13%;
     line-height: 180%;
     font-weight: 600;
   }
-  
-.primarydos{
-  min-width: 130px;
-  height: 40px;
-  color: #fff;
-  padding: 5px 10px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
-  display: inline-block;
-  outline: none;
-  border-radius: 5px;
-  z-index: 0;
-  background: #fff;
-  overflow: hidden;
-  border: 2px solid #BDA040;
-  color: #BDA040;
-  margin-left: 24%;
-  
-}
-.primarytres{
-  min-width: 130px;
-  height: 40px;
-  color: #fff;
-  padding: 5px 10px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
-  display: inline-block;
-  outline: none;
-  border-radius: 5px;
-  z-index: 0;
-  background: #fff;
-  overflow: hidden;
-  border: 2px solid #BDA040;
-  color: #BDA040;
-  margin-left: 25%;
-  
-}
-
-.cajabotonquehacer{
-  margin-top: -11%;
-}
-
-
+ 
 .parrafoDeposito{
   font-family: "Open Sans", sans-serif;
   font-size: 16px;
@@ -453,133 +308,7 @@ line-height: 180%;
 text-align: center;
 }
 
-.primarytres {
-  min-width: 130px;
-  height: 40px;
-  color: #fff;
-  padding: 5px 10px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
-  display: inline-block;
-  outline: none;
-  border-radius: 5px;
-  z-index: 0;
-  background: #fff;
-  overflow: hidden;
-  border: 2px solid #BDA040;
-  color: #BDA040;
-  margin-left: 35% ;
-}
-.css-button-sliding-to-left--yellow:hover {
-  color: #fff;
-}
-.css-button-sliding-to-left--yellow:hover:after {
-  width: 100%;
-}
-.css-button-sliding-to-left--yellow:after {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  transition: all 0.3s ease;
-  right: 0;
-  top: 0;
-  width: 0;
-  height: 100%;
-  background: #c0b788;
-}
 
-.puntos{
-  width: 40%;
-  margin-left: 28%;
-  margin-top: 5%;
-}
-
-
-
-.tituloh5{
-  text-align: center;
-  font-family: "Open Sans", sans-serif;
-     font-size: 18px;
-     color:#BDA040 ;
-     margin-top: 10%;  
-  font-weight: 600;
-  
-}
-
-
-
-.primarytres {
-  min-width: 130px;
-  height: 40px;
-  color: #fff;
-  padding: 5px 10px;
-  font-weight: bold;
-  cursor: pointer;
-  transition: all 0.3s ease;
-  position: relative;
-  display: inline-block;
-  outline: none;
-  border-radius: 5px;
-  z-index: 0;
-  background: #fff;
-  overflow: hidden;
-  border: 2px solid #BDA040;
-  color: #BDA040;
-  margin-left: 24% ;
-  text-decoration: none;
-}
-.css-button-sliding-to-left--yellow:hover {
-  color: #fff;
-}
-.css-button-sliding-to-left--yellow:hover:after {
-  width: 100%;
-}
-.css-button-sliding-to-left--yellow:after {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  transition: all 0.3s ease;
-  right: 0;
-  top: 0;
-  width: 0;
-  height: 100%;
-  background: #c0b788;
-}
-
-
-.cajaasistencia{
-  margin-top: 5%;
-}
-
-
-.parrafoasistencia{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-  text-transform: uppercase;
-  line-height: 180%;
-  font-weight: 600;
-  margin-top: -8%;
-}
-
-.corazon{
-  width: 5%;
-  margin-top: 10%;
-  margin-left: 49%;
-}
-.parrafolosesperamos{
-  font-family: "Open Sans", sans-serif;
-  font-size: 16px;
-  color: #4d4c4c;
-  margin: 8%;
-font-weight: 600;
-line-height: 180%;
-text-align: center;
-
-}
 
 .acompañarnos{
   width: 70%;
@@ -791,39 +520,10 @@ hr{
       font-weight: 600;
       text-align: left;
     }
-    
-    .parrafo1 {
-      font-family: "Open Sans", sans-serif;
-      font-size: 16px;
-      color: #4d4c4c;
-      margin: 8%;
-      text-transform: uppercase;
-      line-height: 180%;
-      font-weight: 600;
-    }
-    
-    .card-body {
-      padding: 20%;
-    }
-    
-    .tituloh2 {
-      text-align: center;
-      font-family: "Open Sans", sans-serif;
-      font-size: 18px;
-      color: #BDA040;
-      margin-top: 10%;
-      font-weight: 600;
-    }
-    
-    .iconop {
-      width: 10%;
-      margin-left: 45%;
-    }
+   
+ 
     
   
-    
-    
-   
     
    
     
@@ -958,16 +658,7 @@ hr{
     
    
     
-    .parraforegalos {
-      font-family: "Open Sans", sans-serif;
-      font-size: 25px;
-      color: #4d4c4c;
-      margin-left: 21%;
-      text-transform: uppercase;
-      line-height: 180%;
-      font-weight: 600;
-      margin-top: 5%;
-    }
+  
     
     .parrafocbu {
       font-family: "Open Sans", sans-serif;
